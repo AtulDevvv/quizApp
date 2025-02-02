@@ -1,7 +1,8 @@
 # Quiz Game App
 
 A modern quiz application built with **React**, **Redux Toolkit**, and **Tailwind CSS**. Users can attempt quizzes, track their progress, and view their results at the end.
-[Link Text](https://quiz-app-one-rho-59.vercel.app/)
+
+## [Live](https://quiz-app-one-rho-59.vercel.app/)
 
 ## 🚀 Features
 - Fetch quiz questions from an API
